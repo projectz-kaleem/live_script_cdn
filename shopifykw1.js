@@ -1,5 +1,8 @@
-        
-function appendMessage() {
+   var kaleem1 = function(){
+        alert("KALE.");
+
+      }        
+var  appendMessage11 = function() {
   alert("Kaleem Please enter a message.");
   const userInput = document.getElementById("userInput").value;
   const messageContainer = document.getElementById("messageContainer");
